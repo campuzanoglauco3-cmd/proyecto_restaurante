@@ -1,0 +1,27 @@
+{
+  "entradas": {
+    "Quesillo": 1.50,
+    "Tostones": 2.00,
+    "Cornetas": 1.75,
+    "Ensalada de repollo": 1.25,
+    "Papas": 1.50,
+    "Chips de plátano": 1.75,
+    "Chips de yuca": 1.75,
+    "Chips de camote": 1.75,
+    "Chips de zanahoria": 1.75
+  },
+  "platos_fuertes": {
+    "Pollo a la plancha": 5.00,
+    "Pollo frito": 5.50,
+    "Pollo al horno": 6.00,
+    "Pollo a la barbacoa": 6.50
+  },
+  "bebidas": {
+    "Gaseosa": 0.50,
+    "Jugo": 1.00
+  },
+  "postres": {
+    "Pastel": 1.50,
+    "Helado": 1.00
+  }
+}
